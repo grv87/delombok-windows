@@ -2,9 +2,9 @@ package test;
 import lombok.Getter;
 import lombok.Setter;
 /**
- * Class needing delombok
+ * Class needing delombok with CRLF
  */
-public class ClassNeedingDelombok {
+public class ClassNeedingDelombokCRLF {
   /**
    * @param Field value
    * @return Field value
